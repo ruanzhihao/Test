@@ -29,6 +29,7 @@ public class Student  extends Person {
        Person p=new Student();
        p.Fath();
        p.Mother();
+        System.out.println("youobianhua");
        ((Student) p).Son();
        if(p instanceof Student) {
            Student student = (Student) p;
