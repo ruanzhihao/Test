@@ -25,7 +25,6 @@ public class Student  extends Person {
 
 
     public static void main(String[] args) {
-
        Person p=new Student();
        p.Fath();
        p.Mother();

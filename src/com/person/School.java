@@ -5,7 +5,7 @@ public class School {
     Person p;
     public static void test(String schoolName,Person p){
         System.out.print(
-                "我来"+schoolName+"学校"
+                "我来"+schoolName+"学校aaa"
         );
         p.Fath();
     }
