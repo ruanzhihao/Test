@@ -12,7 +12,7 @@ public class Student  extends Person {
         this.clazz = clazz;
     }
     public void Fath(){
-        System.out.println("是上学的啊啊啊啊");
+        System.out.println("是上学的啊啊啊啊dedededede");
     }
     public void Son(){
         System.out.println("Son");
